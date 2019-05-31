@@ -42,8 +42,13 @@ Here are 2 assignments.
 
 
 ### Javascript
+> Assignments in this section are all on introduction and basics of Javascript, take time to read on the shared resources
 
-- 
+- [Javascript phase 1](https://classroom.github.com/a/o5O51MNB)
+- [Javascript phase 2](https://classroom.github.com/a/Wz0bbGKQ)
+- [Javascript phase 3](https://classroom.github.com/a/bcBNuYRU)
+- [Javascript phase 4](https://classroom.github.com/a/o5O51MNB)
+- [Javascript phase 5](https://classroom.github.com/a/o5O51MNB)
 
 
 ### React
