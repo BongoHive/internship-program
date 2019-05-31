@@ -8,7 +8,7 @@ each assignment has notes, make sure you read thoroughly to understand what need
  <br>  
 </div>  
 
-> The assignments are divided in categories to help you choose which path you want to concentrate on.
+> The assignments are divided in categories to help you choose which path you want to concentrate on. If you have a question on regarding this, create an [issue here](https://github.com/BongoHive/internship-program/issues/new) explaining your question. 
 
 # Basics
 > This section contains the basic foundation of what you need to understand before you proceed with other assignments below, 
