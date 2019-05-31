@@ -33,15 +33,17 @@ What's included?
 
 ### HTML
 
-Here are 2 resources. 
+Here are 2 assignments. 
 
-- [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+- [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) (Optional)
 - [Introducution to HTML](https://lab.github.com/githubtraining/introduction-to-html)
 
 ### CSS
 
 
 ### Javascript
+
+- 
 
 
 ### React
@@ -54,6 +56,15 @@ Here are 2 resources.
 
 
 ## Back-End
+
+
+### Nodejs
+
+- [Introduction to Nodejs](https://classroom.github.com/a/27hqu7b-)
+- [Introduction to Rest API with postman](https://classroom.github.com/a/ms8A0YL_)
+- [Introduction to express and postman and node js](https://classroom.github.com/a/a961aIjp) 
+- [Introduction to MongoDB](https://classroom.github.com/a/zOJ5-cxa)
+- [Nodejs, express and MongoDB together](https://classroom.github.com/a/_EjpbWqQ)
 
 
 
