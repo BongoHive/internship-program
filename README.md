@@ -42,6 +42,9 @@ Here are 2 assignments.
 
 ### CSS
 
+- [css-introduction](https://classroom.github.com/a/V-0w1V1Y)
+- [css-introduction-2 assigment ](https://classroom.github.com/a/QnsCpzli)
+- [css-introduction-assignment](https://classroom.github.com/a/M_GKyvxF)
 
 ### Javascript
 > Assignments in this section are all on introduction and basics of Javascript, take time to read on the shared resources
