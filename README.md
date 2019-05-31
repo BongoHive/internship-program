@@ -31,6 +31,8 @@ What's included?
 
 ## Front-End  
 
+You will find all the links on resources to the following assignments in the [FrontEnd-learning-resources](https://github.com/BongoHive/front-end-learning-resources) repository.
+
 ### HTML
 
 Here are 2 assignments. 
@@ -47,14 +49,17 @@ Here are 2 assignments.
 - [Javascript phase 1](https://classroom.github.com/a/o5O51MNB)
 - [Javascript phase 2](https://classroom.github.com/a/Wz0bbGKQ)
 - [Javascript phase 3](https://classroom.github.com/a/bcBNuYRU)
-- [Javascript phase 4](https://classroom.github.com/a/o5O51MNB)
-- [Javascript phase 5](https://classroom.github.com/a/o5O51MNB)
+- [Javascript phase 4](https://classroom.github.com/a/2qElSpWN)
 
 
 ### React
 
+- [Create a portfolio](https://classroom.github.com/a/qnsZn1ui)
+- [Create a simple todo](https://classroom.github.com/a/_4d2ae2U)
 
 ### React Native
+
+- [Create a todo app in react-native](https://classroom.github.com/a/M5iqbCro)
 
 
 
