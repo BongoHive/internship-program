@@ -12,7 +12,7 @@ Below is a list of assignments and resources that we gathered for you. Each assi
 Please note that whilst we advise that you select only one learning path, you are welcome to attempt both front-end and back-end assignments. However, you will not be allowed extra time to complete the full course. If you have a question regarding this, kindly create an issue explaining your question [here](https://github.com/BongoHive/internship-program/issues/new). 
 
 # Basics
-This section contains foundational content that you will need to understand before you proceed with other assignments. Please be sure to attemot and complete all listed courses and assignments, and remember to always submit on time.  
+This section contains foundational content that you will need to understand before you proceed with other assignments. Please be sure to attempt and complete all listed courses and assignments, and remember to always submit on time.  
 </div> 
 
 > Please read through these [General Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources.
