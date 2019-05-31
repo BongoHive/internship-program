@@ -7,9 +7,12 @@ assignees: Joebbrien, Mulency
 
 ---
 
+**Is this question about the internship?**
+Yes or No
+
 **Describe your question**
 A clear and concise description of what the problem is.  
 
 
-**Is this question about the internship?**
-Yes or No
+
+
