@@ -12,7 +12,8 @@ each assignment has notes, make sure you read thoroughly to understand what need
 
 # Basics
 > This section contains the basic foundation of what you need to understand before you proceed with other assignments below, 
-be sure to do all listed courses and assignmets and remmember to submit on time.
+be sure to do all listed courses and assignmets and remmember to submit on time.  
+[General Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources can be found here.
 
 ### Github  
 
