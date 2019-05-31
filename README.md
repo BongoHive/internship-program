@@ -14,7 +14,7 @@ each assignment has notes, make sure you read thoroughly to understand what need
 > This section contains the basic foundation of what you need to understand before you proceed with other assignments below, 
 be sure to do all listed courses and assignmets and remmember to submit on time.
 
-**Github**  
+### Github  
 
 [First Day at Github](https://lab.github.com/githubtraining/paths/first-day-on-github)  
 
@@ -30,6 +30,25 @@ What's included?
 
 
 ## Front-End  
+
+### HTML
+
+Here are 2 resources. 
+
+- [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+- [Introducution to HTML](https://lab.github.com/githubtraining/introduction-to-html)
+
+### CSS
+
+
+### Javascript
+
+
+### React
+
+
+### React Native
+
 
 
 
