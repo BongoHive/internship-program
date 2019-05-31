@@ -2,29 +2,31 @@
 <h2 align="center"> ️Welcome to BongoHive Consult 😀</h2>
 
 <div align="center">
-Below is a list of assignments and resources that we gathered for you, find time to go through them and submit on time
-each assignment has notes, make sure you read thoroughly to understand what needs to be done.
+Below is a list of assignments and resources that we gathered for you. Please find time to go through them, and kindly remember to submit all assignments on time.
+ 
+Each assignment has notes. Please make sure you read the notes thoroughly to understand what needs to be done.
  <br>
  <br>  
 </div>  
 
-> The assignments are divided in categories to help you choose which path you want to concentrate on. If you have a question on regarding this, create an [issue here](https://github.com/BongoHive/internship-program/issues/new) explaining your question. 
+> The resources are categorized. This is to help you focus only on the content relevant to the learning path you choose, whether front-end or back-end. The content on the 'basics', however, is compulsory. 
+
+Please also note that while we advise that you select only one learning path, you are welcome to attempt both front-end and back-end assignments. However, you will not be allowed extra time to complete the full course. If you have a question regarding this, kindky create an issue explaining your question [here](https://github.com/BongoHive/internship-program/issues/new). 
 
 # Basics
-> This section contains the basic foundation of what you need to understand before you proceed with other assignments below, 
-be sure to do all listed courses and assignmets and remmember to submit on time.  
-[General Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources can be found here.
+> This section contains foundational content that you will need to understand before you proceed with other assignments. Please be sure to attemot and complete all listed courses and assignments, and remember to always submit on time.  
+Please read through these [General Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources.
 
 ### Github  
 
 [First Day at Github](https://lab.github.com/githubtraining/paths/first-day-on-github)  
 
-The above link has different courses and it is very important for you to go through all of them if you are not familiar with Github.
+The link above has different courses, and it is very important for you to go through all of them if you are not familiar with Github.
 
-What's included? 
+What is included? 
 - [What is Github ?](https://youtu.be/w3jLJU7DT5E)
 - [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
-- [Git Handbook ](https://guides.github.com/introduction/git-handbook/) ⚠️
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/) ⚠️
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 - [Uploading your project to Github](https://lab.github.com/githubtraining/uploading-your-project-to-github)
 - Additionally, you can find other [Github Guides here](https://guides.github.com/)
@@ -32,11 +34,9 @@ What's included?
 
 # Front-End  
 
-You will find all the links on resources to the following assignments in the [FrontEnd-learning-resources](https://github.com/BongoHive/front-end-learning-resources) repository.
+You will find all the links to resources for the following ' front-end' assignments in the [FrontEnd-learning-resources](https://github.com/BongoHive/front-end-learning-resources) repository.
 
 ### HTML
-
-Here are 2 assignments. 
 
 - [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) (Optional)
 - [Introducution to HTML](https://lab.github.com/githubtraining/introduction-to-html)
@@ -48,7 +48,7 @@ Here are 2 assignments.
 - [CSS Introduction Assignment](https://classroom.github.com/a/M_GKyvxF)
 
 ### Javascript
-> Assignments in this section are all on introduction and basics of Javascript, take time to read on the shared resources
+> Assignments in this section are all on the basics of Javascript. Please take time to read through the shared resources.
 
 - [Javascript phase 1](https://classroom.github.com/a/o5O51MNB)
 - [Javascript phase 2](https://classroom.github.com/a/Wz0bbGKQ)
@@ -57,7 +57,7 @@ Here are 2 assignments.
 
 
 ### React
-> Read all the resources provided in the respective assignments
+> Please read all the resources provided in the respective assignments.
 
 - [Create a portfolio](https://classroom.github.com/a/qnsZn1ui)
 - [Create a simple todo](https://classroom.github.com/a/_4d2ae2U)
@@ -68,7 +68,7 @@ Here are 2 assignments.
 
 
 # Back-End
-
+The following section contains resources and assignments on 'back-end' development.
 
 ### Nodejs, MongoDB, Express
 
@@ -80,7 +80,7 @@ Here are 2 assignments.
 
 
 
-**Note:** Everytime you have a question, create an issue in the specified repository or assignment.
+**Note:** Everytime you have a question, please create an issue in the specified repository or assignment.
 
 
 
