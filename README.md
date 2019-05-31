@@ -21,7 +21,7 @@ This section contains foundational content that you will need to understand befo
 
 [First Day at Github](https://lab.github.com/githubtraining/paths/first-day-on-github)  
 
-The link above has different courses, and it is very important for you to go through all of them if you are not familiar with Github.
+> The link above has different courses, and it is very important for you to go through all of them if you are not familiar with Github.
 
 What is included? 
 - [What is Github ?](https://youtu.be/w3jLJU7DT5E)
