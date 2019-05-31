@@ -10,7 +10,7 @@ each assignment has notes, make sure you read thoroughly to understand what need
 
 > The assignments are divided in categories to help you choose which path you want to concentrate on.
 
-## Basics
+# Basics
 > This section contains the basic foundation of what you need to understand before you proceed with other assignments below, 
 be sure to do all listed courses and assignmets and remmember to submit on time.
 
@@ -29,7 +29,7 @@ What's included?
 - Additionally, you can find other [Github Guides here](https://guides.github.com/)
 
 
-## Front-End  
+# Front-End  
 
 You will find all the links on resources to the following assignments in the [FrontEnd-learning-resources](https://github.com/BongoHive/front-end-learning-resources) repository.
 
@@ -63,7 +63,7 @@ Here are 2 assignments.
 - [Create a todo app in react-native](https://classroom.github.com/a/M5iqbCro)
 
 
-## Back-End
+# Back-End
 
 
 ### Nodejs, MongoDB, Express
