@@ -80,7 +80,7 @@ The following section contains resources and assignments on 'back-end' developme
 
 
 
-**Note:** Everytime you have a question, please create an issue in the specified repository or assignment.
+> **Note:** Everytime you have a question, please create an issue in the specified repository or assignment.
 
 
 
