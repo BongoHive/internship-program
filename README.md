@@ -56,6 +56,16 @@ Here are 2 resources.
 ## Back-End
 
 
+https://classroom.github.com/a/27hqu7b-  Assign 1 Introduction to Node JS
+
+https://classroom.github.com/a/ms8A0YL_ Assign 2 introduction to Rest API with postman
+
+https://classroom.github.com/a/a961aIjp Assign 3 introduction to express and postman and node js
+
+https://classroom.github.com/a/zOJ5-cxa Assign 4 introduction to mongo db
+
+https://classroom.github.com/a/_EjpbWqQ Assign 5 Node js, express and mongo db together
+
 
 
 
