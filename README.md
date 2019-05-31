@@ -6,6 +6,7 @@ Below is a list of assignments and resources that we gathered for you. Each assi
  <br>
  <br>  
 </div>  
+
 > The resources are categorized. This is to help you focus only on the content relevant to the learning path you choose, whether front-end or back-end. The content on the 'basics', however, is compulsory. 
 
 Please also note that while we advise that you select only one learning path, you are welcome to attempt both front-end and back-end assignments. However, you will not be allowed extra time to complete the full course. If you have a question regarding this, kindky create an issue explaining your question [here](https://github.com/BongoHive/internship-program/issues/new). 
