@@ -53,6 +53,7 @@ Here are 2 assignments.
 
 
 ### React
+> Read all the resources provided in the respective assignments
 
 - [Create a portfolio](https://classroom.github.com/a/qnsZn1ui)
 - [Create a simple todo](https://classroom.github.com/a/_4d2ae2U)
@@ -62,13 +63,10 @@ Here are 2 assignments.
 - [Create a todo app in react-native](https://classroom.github.com/a/M5iqbCro)
 
 
-
-
-
 ## Back-End
 
 
-### Nodejs
+### Nodejs, MongoDB, Express
 
 - [Introduction to Nodejs](https://classroom.github.com/a/27hqu7b-)
 - [Introduction to Rest API with postman](https://classroom.github.com/a/ms8A0YL_)
