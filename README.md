@@ -13,8 +13,6 @@ Please also note that while we advise that you select only one learning path, yo
 
 # Basics
 This section contains foundational content that you will need to understand before you proceed with other assignments. Please be sure to attemot and complete all listed courses and assignments, and remember to always submit on time.  
- <br>
- <br>  
 </div> 
 
 > Please read through these [General Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources.
