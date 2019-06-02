@@ -39,7 +39,7 @@ You will find all the links to resources for the following ' front-end' assignme
 ### HTML
 
 - [Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) (Optional)
-- [Introducution to HTML](https://lab.github.com/githubtraining/introduction-to-html)
+- [Introduction to HTML](https://lab.github.com/githubtraining/introduction-to-html)
 
 ### CSS
 
