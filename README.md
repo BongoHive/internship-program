@@ -15,7 +15,7 @@ Please note that whilst we advise that you select only one learning path, you ar
 This section contains foundational content that you will need to understand before you proceed with other assignments. Please be sure to attempt and complete all listed courses and assignments, and remember to always submit on time.  
 </div> 
 
-> Please read through these [General Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources.
+> Please read through these [Assignment Instructions](https://github.com/BongoHive/how-to-instructions/blob/master/README.md) on how to get most out of these resources.
 
 ### Github  
 
