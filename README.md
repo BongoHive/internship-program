@@ -1,5 +1,5 @@
 
-<h2 align="center"> ️Welcome to BongoHive Consult 😀</h2>
+<h2 align="center"> ️Welcome to the BongoHive Consult Internship Programme 😀</h2>
 
 <div align="center">
 Below is a list of assignments and resources that we gathered for you. Each assignment has notes. Please make sure you read the notes thoroughly to understand what needs to be done, and kindly remember to submit all assignments on time.
