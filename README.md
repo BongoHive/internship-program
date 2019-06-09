@@ -1,4 +1,5 @@
-
+![GitHub issues](https://img.shields.io/github/issues/bongohive/internship-program.svg?style=flat-square)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/bongohive/internship-program.svg?style=flat-square)
 <h2 align="center"> ️Welcome to the BongoHive Consult Internship Programme 😀</h2>
 
 <div align="center">
