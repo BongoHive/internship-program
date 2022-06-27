@@ -3,6 +3,8 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/bongohive/internship-program.svg?style=flat-square)
 <h2 align="center"> ️Welcome to the BongoHive Consult Internship Programme 😀</h2>
 
+**Kindly note that this internship is no longer active but you can use all the resources available here for your personal learning**
+<hr />
 <div align="center">
 Below is a list of assignments and resources that we gathered for you. Each assignment has notes. Please make sure you read the notes thoroughly to understand what needs to be done, and kindly remember to submit all assignments on time.
  <br>
